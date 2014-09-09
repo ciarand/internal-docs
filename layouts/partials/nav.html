@@ -1,0 +1,10 @@
+<!-- Navigation -->
+<nav>
+    <ol class="breadcrumb">
+        <li><a href="/">Home</a></li>
+        {{ if ne .Section "" }}
+            <li><a href="/#{{ .Section }}">{{ title .Section }}</a></li>
+        {{ end }}
+        <li class="active">{{ title .Title }}</li>
+    </ol>
+</nav>

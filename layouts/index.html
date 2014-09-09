@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+{{ partial "head.html" . }}
+<body>
+    {{ partial "nav.html" . }}
+    <!-- Page Content -->
+    <div class="container">
+
+        {{ partial "alerts.html" . }}
+
+        {{ partial "title.html" . }}
+
+        {{ range .Data.Pages.GroupBy "Section" }}
+            <h2 id="{{ .Key }}">{{ title .Key }}</h2>
+
+            <ul>
+                {{ range .Pages.ByTitle }}
+                    <li><a href="{{ .Permalink }}">{{ title .Title }}</a></li>
+                {{ end }}
+            </ul>
+        {{ end }}
+
+        {{ partial "footer.html" . }}
+    </div>
+
+    {{ partial "tail.html" . }}
+</body>
+</html>
