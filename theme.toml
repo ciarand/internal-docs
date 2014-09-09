@@ -1,0 +1,10 @@
+name        = "internal-docs"
+description = "A theme for an internal documentation site, meant to be forked"
+license     = "ISC"
+source_repo = "https://github.com/ciarand/internal-docs"
+tags        = ["documentation", "bootstrap"]
+
+[author]
+    name    = "Ciaran Downey"
+    twitter = "http://twitter.com/ciarandowney"
+    url     = "http://github.com/ciarand"
