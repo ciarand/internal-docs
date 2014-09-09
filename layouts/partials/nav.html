@@ -1,9 +1,9 @@
 <!-- Navigation -->
 <nav>
     <ol class="breadcrumb">
-        <li><a href="/">Home</a></li>
+        <li><a href="{{ .Site.BaseUrl }}">Home</a></li>
         {{ if ne .Section "" }}
-            <li><a href="/#{{ .Section }}">{{ title .Section }}</a></li>
+            <li><a href="{{.Site.BaseUrl }}/#{{ .Section }}">{{ title .Section }}</a></li>
         {{ end }}
         <li class="active">{{ title .Title }}</li>
     </ol>
