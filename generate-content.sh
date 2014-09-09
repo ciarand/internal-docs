@@ -23,6 +23,6 @@ Other *stuff* can go in **here**.
 
 EOF
 
-hugo -d docs/
+hugo -d docs/ --baseUrl="http://ciarand.github.io/internal-docs"
 
 rm -rf content
