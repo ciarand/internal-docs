@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Recent Content on  </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>/index.xml/</link>
+    
+    
+    
+    <updated>Tue, 02 Sep 2014 21:07:25 UTC</updated>
+    
+    <item>
+      <title>Important documentation</title>
+      <link>/project/important/</link>
+      <pubDate>Tue, 02 Sep 2014 21:07:25 UTC</pubDate>
+      
+      <guid>/project/important/</guid>
+      <description>
+
+&lt;p&gt;This is some important documentation&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;block quote&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cat /dev/null
+
+echo &amp;quot;hello!&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Header&lt;/h2&gt;
+
+&lt;p&gt;Other &lt;em&gt;stuff&lt;/em&gt; can go in &lt;strong&gt;here&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
