@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/</loc>
+    <loc>http://ciarand.github.io/internal-docs/</loc>
     <lastmod>2014-09-02T21:07:25+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/project/important/</loc>
+    <loc>http://ciarand.github.io/internal-docs/project/important/</loc>
     <lastmod>2014-09-02T21:07:25+00:00</lastmod>
   </url>
   

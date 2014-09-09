@@ -3,7 +3,7 @@
   <channel>
       <title>Recent Content on  </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>/index.xml/</link>
+    <link>http://ciarand.github.io/internal-docs/index.xml/</link>
     
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Important documentation</title>
-      <link>/project/important/</link>
+      <link>http://ciarand.github.io/internal-docs/project/important/</link>
       <pubDate>Tue, 02 Sep 2014 21:07:25 UTC</pubDate>
       
-      <guid>/project/important/</guid>
+      <guid>http://ciarand.github.io/internal-docs/project/important/</guid>
       <description>
 
 &lt;p&gt;This is some important documentation&lt;/p&gt;
