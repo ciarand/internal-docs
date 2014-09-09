@@ -16,9 +16,12 @@ hugo -t docs
 
 Structure
 ---------
-As much as possible, different HTML snippets are stored in partials. Instead of
-explaining them here, each of the files within the `layouts/partials` directory
-have a comment at the top explaining what they're there for.
+As much as possible, different HTML snippets are stored in partials. Check the
+`layouts/partials` folder for an overview of the partials being used, and check
+the [Hugo docs][customizing] on customizing themes if you're interested in
+extending the functionality.
+
+[customizing]: http://hugo.spf13.com/themes/customizing/
 
 License
 -------
