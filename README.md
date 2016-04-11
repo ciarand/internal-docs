@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 Internal-docs
 =============
 >A Hugo theme for an internal documentation site, meant to be forked and
